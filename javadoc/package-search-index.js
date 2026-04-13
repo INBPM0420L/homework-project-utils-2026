@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"common"},{"l":"common.util"},{"l":"common.util.board"},{"l":"game"},{"l":"game.console"},{"l":"puzzle"},{"l":"puzzle.solver"}];updateSearchResults();
